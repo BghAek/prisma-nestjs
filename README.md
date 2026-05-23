@@ -1,6 +1,6 @@
-# Prisma 7 + NestJS Complete Setup Guide
+# Prisma 7 + NestJS V11 Complete Setup Guide
 
-This guide provides step-by-step instructions for setting up Prisma 7 with NestJS without errors and with full compatibility.
+This guide provides step-by-step instructions for setting up Prisma 7 with NestJS V11 without errors and with full compatibility.
 
 ## Table of Contents
 
